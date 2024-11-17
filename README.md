@@ -3,15 +3,25 @@
 ### Project Title: 
 
 [Project Overview](#project-overview)
+
 [Data Collected](#data-collected)
+
 [Data Quality and Presentation](#data-quality-and-presentation)
+
 [Tools Used](#tools-used)
+
 [Project Objective](#project-objective)
+
 [Data Analysis](#data-analysis)
+
 [Insight](#insight)
+
 [Recommendation](#recommendation)
+
 [Visualisation](#visualisation)
+
 [Conclusion](#conclusion)
+
 
 ### Project Overview
 This projects involves analyzing customer data for a subscriptionservice to identify segments and trends. The goal of this project is to understand customer behaviour, track subscription types and identify key trends in cancellations and renewals.
